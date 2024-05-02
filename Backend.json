@@ -21,7 +21,7 @@
     "price": 800
   },
   "daily6": {
-    "itemGrants": ["AthenaBackPack:BID_208_CupidDarkMale"],
+    "itemGrants": ["AthenaBackpack:BID_208_CupidDarkMale"],
     "price": 500
   },
   "featured1": {
