@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_497_Athena_Commando_F_WildWest","AthenaBackpack:BID_329_WildWestFemale"],
+    "itemGrants": ["AthenaCharacter:CID_650_Athena_Commando_F_HolidayPJ_B"],
     "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaWrap:Wrap_139_Prismatic"],
-    "price": 500
+    "itemGrants": ["AthenaDance:EID_IndigoApple"],
+    "price": 1200
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Glider_Prismatic"],
-    "price": 800
+    "itemGrants": ["AthenaDance:EID_TacoTimeDance"],
+    "price": 1000
   },
   "daily4": {
-    "itemGrants": ["AthenaCharacter:CID_593_Athena_Commando_F_SoccerZombieA","AthenaBackpack:BID_391_SoccerZombieFemale"],
+    "itemGrants": ["AthenaGlider:Glider_ID_201_TNTinaFemale"],
     "price": 1200
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_074_SharpDresser"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
     "price": 800
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_Darling"],
+    "itemGrants": ["AthenaBackPack:BID_208_CupidDarkMale"],
     "price": 500
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_240_Athena_Commando_F_Plague","AthenaBackpack:BID_128_PlagueFemale"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_753_Athena_Commando_F_Hostile"],
+    "price": 1200
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_241_Athena_Commando_M_Plague","AthenaBackpack:BID_127_PlagueMale"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_704_Athena_Commando_F_LollipopTrickster"],
+    "price": 1200
   },
    "featured3": {
-    "itemGrants": ["AthenaDance:EID_Tidy"],
-    "price": 500
+    "itemGrants": ["AthenaDance:EID_NeverGonna"],
+    "price": 800
    }
 }
